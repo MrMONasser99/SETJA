@@ -35,5 +35,7 @@ It uses a custom C++/DirectX engine for ultra-fast capture and runs entirely loc
 
 ---
 *Note 1: Requires an NVIDIA GPU for optimal performance.*
+
 *Note 2: The Virtual Environment requires approximately **7 GB** of disk space.*
+
 *Note 3: This is the initial release. Please report any bugs in the Issues tab.*

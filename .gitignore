@@ -1,0 +1,28 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C++ artifacts
+*.exe
+*.obj
+*.o
+*.dll
+*.so
+*.dylib
+
+# Build folders
+build/
+dist/
+
+# Environment
+.env
+venv/
+env/
+
+# VS Code settings (optional)
+.vscode/
+
+# Large Models (Optional: Uncomment if you want to ignore models)
+# *.bin
+# *.onnx
